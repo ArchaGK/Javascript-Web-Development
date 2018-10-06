@@ -1,4 +1,4 @@
 This is a simple chat application using
 Socket.IO and Express framework.
 
-![Alt text](Javascript-Web-Development/socket-chat-example/socket_chat_app.PNG?raw=true "Chat app output")
+[![socket_chat_app.png](https://i.postimg.cc/RC15K2RW/socket_chat_app.png)](https://postimg.cc/F1KBQWwv)
