@@ -7,6 +7,7 @@ app.get('/', function(req, res) {
 });
 
 users = [];
+//user connection
 io.on('connection', function(socket) {
    console.log('A user connected');
    socket.on('setUsername', function(data) {
